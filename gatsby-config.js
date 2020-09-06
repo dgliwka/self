@@ -42,5 +42,6 @@ module.exports = {
         graphqlTag: process.env.SANITY_GRAPHQL_TAG,
       },
     },
+    `gatsby-plugin-styled-components`
   ],
 }
